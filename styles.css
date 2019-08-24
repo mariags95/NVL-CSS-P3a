@@ -1,0 +1,12 @@
+body {
+  background-color: #33ccff;
+}
+h1 {
+  color: white;
+  border: 6px solid lightgray;
+}
+p {
+  color: black;
+  border: 1px solid white;
+  padding: 30px;
+}
